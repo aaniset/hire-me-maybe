@@ -1,0 +1,406 @@
+[
+  {
+    "id": "190cbc15974cff50",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  },
+  {
+    "id": "19038854c9231cf6",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  },
+  {
+    "id": "19027419e10e2fdf",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "unknown",
+      "nextStep": "Update Handshake profile and resume, attend career workshops and events",
+      "applicationDate": "",
+      "keyDetails": [
+        "Career advice from industry professionals, including Amazon and Intel",
+        "Update Handshake profile with location, GPA, expected graduation date, and resume",
+        "Attend career workshops and events, including interview and salary negotiation sessions",
+        "Prepare for upcoming career fairs in September",
+        "Schedule a 1:1 career appointment with Fulton Schools of Engineering peer career coaches and staff"
+      ]
+    }
+  },
+  {
+    "id": "1904b4508a27cad5",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "unknown",
+      "nextStep": "Update Handshake profile, resume, and attend career workshops",
+      "applicationDate": "",
+      "keyDetails": [
+        "Career advice from industry professionals, including Amazon and Intel",
+        "Update resume and Handshake profile for upcoming career fairs",
+        "Attend career workshops, including salary negotiations and interviewing basics"
+      ]
+    }
+  },
+  {
+    "id": "19146fcd1816e51a",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected",
+        "Other candidates with more aligned experience",
+        "Future positions may be of interest"
+      ]
+    }
+  },
+  {
+    "id": "1914f71549af7038",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected",
+        "Other candidates with more aligned experience",
+        "Future positions may be of interest"
+      ]
+    }
+  },
+  {
+    "id": "1914f5c390897295",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected",
+        "Other candidates' experience aligns more closely with the company's needs",
+        "Invitation to keep an eye out for future positions"
+      ]
+    }
+  },
+  {
+    "id": "191393127c7cd5ea",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "Coinbase",
+      "status": "applied",
+      "nextStep": "Await notification of next steps",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application received at Coinbase",
+        "Next steps to be communicated if qualifications match"
+      ]
+    }
+  },
+  {
+    "id": "191391fbf7b19cea",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "Coinbase",
+      "status": "applied",
+      "nextStep": "Await notification of next steps",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application received at Coinbase",
+        "Next steps to be communicated shortly"
+      ]
+    }
+  },
+  {
+    "id": "19139271b270791e",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Full Stack",
+      "company": "Forward",
+      "status": "applied",
+      "nextStep": "Wait to hear back from the company",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application received for Software Engineer Full Stack at Forward",
+        "Company will review application and schedule an interview if potential is seen",
+        "Will hear back within a week, otherwise assume candidacy is not moving forward"
+      ]
+    }
+  },
+  {
+    "id": "1906099e3de847a2",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "102398BR",
+      "position": "Software Developer Student Worker",
+      "company": "Decision Theater, Arizona State University",
+      "status": "applied",
+      "nextStep": "Apply directly to the job posting",
+      "applicationDate": "",
+      "keyDetails": [
+        "Job Title: Software Developer Student Worker",
+        "Close Date: July 3rd, 2024, 3pm",
+        "Apply through the on-campus jobs site",
+        "Do not send resume or cover letter via email",
+        "Remove from email list by responding to this email"
+      ]
+    }
+  },
+  {
+    "id": "1904d05bb984f6b4",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "applied",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Onboarding survey response for a program",
+        "Program details: Information Technology, 20 hours/week, start date: June 24, 2024",
+        "Commitment to attend Zoom onboarding and office hours",
+        "Agreement to complete certifications and submit weekly hour verification"
+      ]
+    }
+  },
+  {
+    "id": "1906f4b265ef0e43",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "unknown",
+      "nextStep": "Update Handshake profile and resume, attend career workshops and events",
+      "applicationDate": "",
+      "keyDetails": [
+        "Career advice from industry professionals (Amazon, Intel)",
+        "Resume and interview preparation workshops",
+        "Update Handshake profile and resume for career fairs and job applications"
+      ]
+    }
+  },
+  {
+    "id": "1914cc428fefe2f6",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  },
+  {
+    "id": "19123888bbb58734",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "unknown",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Career workshops and events for engineering students",
+        "Resume and interview preparation resources",
+        "Upcoming employer events and career fairs in September",
+        "Free CAD training webinar on August 22nd",
+        "List of employer events, including Cognizant, Disney, Mayo, and NSA"
+      ]
+    }
+  },
+  {
+    "id": "1913937b87a7b389",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "Mozilla",
+      "status": "applied",
+      "nextStep": "Await review by recruiter",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application received by Mozilla",
+        "Review process may take several weeks",
+        "Application will remain in database for at least one year"
+      ]
+    }
+  },
+  {
+    "id": "191393d941a33623",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "R002344",
+      "position": "Full Stack Engineer",
+      "company": "DTN",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "08092024",
+      "keyDetails": [
+        "Application rejected for Full Stack Engineer at DTN",
+        "Other candidates selected for the opportunity"
+      ]
+    }
+  },
+  {
+    "id": "190f0a7ad964696b",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Full Stack Software Engineer",
+      "company": "Roadz",
+      "status": "interview scheduled",
+      "nextStep": "Complete home assignment by EOD Monday",
+      "applicationDate": "",
+      "keyDetails": [
+        "Interview process started",
+        "Home assignment provided",
+        "Assignment deadline: EOD Monday"
+      ]
+    }
+  },
+  {
+    "id": "1914f95bb5ee014b",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected for Software Engineer Frontend Consumer Products at Coinbase",
+        "Other candidates' experience align more closely with our needs",
+        "Information kept on file for future openings"
+      ]
+    }
+  },
+  {
+    "id": "1914f93f79607700",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected due to other candidates with more aligned experience",
+        "Invitation to keep an eye out for future positions"
+      ]
+    }
+  },
+  {
+    "id": "1914f85c3abcd2fa",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected for Software Engineer Frontend Consumer Products",
+        "Other candidates with more aligned experience",
+        "Information kept on file for future openings"
+      ]
+    }
+  },
+  {
+    "id": "1914f74d8b8d411d",
+    "isJobRelated": true,
+    "jobData": {
+      "jobId": "",
+      "position": "Software Engineer Frontend Consumer Products",
+      "company": "Coinbase",
+      "status": "rejected",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": [
+        "Application rejected for Software Engineer Frontend Consumer Products",
+        "Other candidates' experience align more closely with our needs",
+        "Information kept on file for future openings"
+      ]
+    }
+  },
+  {
+    "id": "19109f7ec0670c79",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  },
+  {
+    "id": "190a3b093d6481e6",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  },
+  {
+    "id": "19146fc7efdeb88c",
+    "isJobRelated": false,
+    "jobData": {
+      "jobId": "",
+      "position": "",
+      "company": "",
+      "status": "",
+      "nextStep": "",
+      "applicationDate": "",
+      "keyDetails": []
+    }
+  }
+]
